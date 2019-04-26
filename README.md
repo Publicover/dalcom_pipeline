@@ -1,24 +1,5 @@
-# README
+# Brand New App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This RoR app serves as a starting point for anyone who might wish to have the Devise, Bootstrap, RSpec, Capybara and FactoryBot already up and running on their new app. Headers and footers are in place, as is a dashboard homepage set to root. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is the subject of a series on Medium, and it will be used to quickly jump into more advanced topics on Medium articles to come. 
